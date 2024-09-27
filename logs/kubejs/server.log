@@ -1,0 +1,9 @@
+[03:00:16] [INIT] KubeJS 2001.6.4-build.120; MC 2001 fabric
+[03:00:16] [INIT] Loaded plugins:
+[03:00:16] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[03:00:16] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:00:16] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[03:00:16] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[03:00:16] [INFO] Loaded 1/1 KubeJS server scripts in 0.009 s with 0 errors and 0 warnings
+[03:00:16] [INFO] Scripts loaded
+[03:00:18] [INFO] Server resource reload complete!

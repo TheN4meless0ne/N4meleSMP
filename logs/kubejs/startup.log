@@ -1,0 +1,7 @@
+[03:00:14] [INIT] KubeJS 2001.6.4-build.120; MC 2001 fabric
+[03:00:14] [INIT] Loaded plugins:
+[03:00:14] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[03:00:14] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:00:15] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[03:00:15] [INFO] Loaded script startup_scripts:example.js in 0.02 s
+[03:00:15] [INFO] Loaded 1/1 KubeJS startup scripts in 0.119 s with 0 errors and 0 warnings
